@@ -1,8 +1,15 @@
 # Breathing Signal Prediction
 
-Codebase for paper submitted to Interspeech2025 - "Breathing signal prediction from speech - state-of-the-art and reproducibility"
+Codebase for paper accepted to ICMI 2026 - "Breathing Signal Prediction from Speech: Toward Reproducible and Comparable Models"
 
----
+![pipeline](./pipeline_breath_fpessanha.png)
+
+## Installation
+
+1. **Basic Installation**: `pip install -r requirements.txt`
+2. **Virtual Environment Setup (Recommended)**:
+   - Uses `venv` to create an isolated environment.
+   - Provides activation steps for both macOS/Linux and Windows.
 
 ## Structure
 ```bash
@@ -24,13 +31,13 @@ Codebase for paper submitted to Interspeech2025 - "Breathing signal prediction f
 ├── models # Folder where models will be saved
 └── output # Folder where predicted breathing signals will be saved
 ```
----
+
 ## Dataset Access
 To access the UCL-SBM dataset, please contact Dr. Alexis Deighton MacIntyre: [AlexisDeighton.MacIntyre@mrc-cbu.cam.ac.uk](mailto:AlexisDeighton.MacIntyre@mrc-cbu.cam.ac.uk)
 
----
+
 ## Trained Models
-*Insert link to drive*
+*Insert link to zenodo*
 
 
 
