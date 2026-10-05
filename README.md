@@ -37,7 +37,7 @@ To access the UCL-SBM dataset, please contact Dr. Alexis Deighton MacIntyre: [Al
 
 
 ## Trained Models
-*Insert link to zenodo*
+[Zenodo](https://zenodo.org/records/21370725?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUwZmU3ZjI5LTFlYzctNGM2YS04Mzk4LWRhNzk2ODcwY2Y5MCIsImRhdGEiOnt9LCJyYW5kb20iOiJmYTkzNTE5ODBjMmY4YmY4OTE3ZTRkYzU2NThmYWE0MiJ9.GMGQZYVwxv6JBahwaRThpUkfe6ZB4vYzqvjo362mwUoRzyV1e5WiI-V0Kf-dstcS2qvbgXu4XQv2MTiG7__kZw)
 
 
 
