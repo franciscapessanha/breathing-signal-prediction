@@ -40,4 +40,21 @@ To access the UCL-SBM dataset, please contact Dr. Alexis Deighton MacIntyre: [Al
 [Zenodo](https://zenodo.org/records/21370725?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUwZmU3ZjI5LTFlYzctNGM2YS04Mzk4LWRhNzk2ODcwY2Y5MCIsImRhdGEiOnt9LCJyYW5kb20iOiJmYTkzNTE5ODBjMmY4YmY4OTE3ZTRkYzU2NThmYWE0MiJ9.GMGQZYVwxv6JBahwaRThpUkfe6ZB4vYzqvjo362mwUoRzyV1e5WiI-V0Kf-dstcS2qvbgXu4XQv2MTiG7__kZw)
 
 
+## Citation
+Pessanha, F., de Wildt, G., MacIntyre, A. D., Kaya, H., & Akdag, A. (2026). *Breathing Signal Prediction from Speech: Toward Reproducible and Comparable Models*. In **Proceedings of the 28th International Conference on Multimodal Interaction** (pp. 948–957). ACM. [https://doi.org/10.1145/3776574.3831208](https://doi.org/10.1145/3776574.3831208)
+
+```bibtex
+@inproceedings{Pessanha2026Breathing,
+  author    = {Pessanha, Francisca and de Wildt, Glenn and MacIntyre, Alexis Deighton and Kaya, Heysem and Akdag, Almila},
+  title     = {Breathing Signal Prediction from Speech: Toward Reproducible and Comparable Models},
+  booktitle = {Proceedings of the 28th International Conference on Multimodal Interaction},
+  series    = {ICMI '26},
+  year      = {2026},
+  pages     = {948--957},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  doi       = {10.1145/3776574.3831208},
+  url       = {https://doi.org/10.1145/3776574.3831208}
+}
+
 
